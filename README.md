@@ -15,8 +15,6 @@ The course is structured into various sections, each focusing on different aspec
 
 | Section | Description |
 |---------|-------------|
-| Introduction | Course introduction and success strategies |
-| Getting More Interviews | Resume building, LinkedIn, and job application strategies |
 | Big O | Understanding Big O notation and scalability |
 | How To Solve Coding Problems | Strategies for solving coding problems in interviews |
 | Data Structures: Introduction | Introduction to various data structures |
